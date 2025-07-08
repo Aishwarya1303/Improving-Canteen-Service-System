@@ -20,8 +20,3 @@ A smart food-ordering platform designed to reduce queues and streamline service 
 - Pre-ordering and status tracking
 - Firebase backend for real-time updates
 
-## 📸 Screenshots
-
-*(Add screenshots if you have any — they really boost clarity)*
-
-## 📂 Folder Structure
